@@ -2,10 +2,10 @@
 
 两个不同的pdf，计算sha1摘要时，发现sha1摘要是一样的，哈哈，是不是很神奇？
 
-经过精心构造，两个pdf文件： [shattered-1.pdf]() 与 [shattered-2.pdf]() 的sha1摘要完全一致。
+经过精心构造，两个pdf文件： [shattered-1.pdf](https://github.com/mythkiven/SHAttered/raw/master/shattered-1.pdf) 与 [shattered-2.pdf](https://github.com/mythkiven/SHAttered/raw/master/shattered-2.pdf) 的sha1摘要完全一致。
 
 pdf的格式：
-![]()
+![](https://github.com/mythkiven/SHAttered/raw/master/pdf_format.png)
 
 简单的拆分下：
 ```

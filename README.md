@@ -28,3 +28,8 @@ pdf的格式：
 -  以及GWI和谷歌的SHA1碰撞性实例(就是本文列举的两个pdf)。
 
 引自 http://shattered.it/
+
+
+**补充：**
+-  实施 MD5碰撞的库： https://github.com/upbit/clone-fastcoll
+-  实施SHA1碰撞的库：https://github.com/nneonneo/sha1collider
